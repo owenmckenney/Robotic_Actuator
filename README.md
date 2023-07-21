@@ -4,7 +4,10 @@ This robotic actuator provides high torque and speeds at a reasonable cost. It u
 
 ## Specs
 
-TODO
+Diameter: 82mm
+Width: 64mm
+
+torque specs -- TODO
 
 ## Manufacturing & Assembly Tips
 
